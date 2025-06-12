@@ -1,6 +1,6 @@
 {
-  "title": "Carousel Combat Tracker",
-  "description": "Carousel style combat tracker. Spiritual successor of Combat Carousel",
+  "title": "Carousel Combat Tracker - Modified",
+  "description": "Style modified version of Carousel style combat tracker.",
   "id": "combat-tracker-dock",
   "version": "1.0",
   "authors": [
@@ -67,7 +67,7 @@
     "requires": []
   },
   "compatibility": {
-    "minimum": "13",
-    "verified": "13"
+    "minimum": "12",
+    "verified": "12"
   }
 }
